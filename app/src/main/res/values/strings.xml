@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">To do List</string>
+    <string name="todoScreenTitle">Todo</string>
+    <string name="no_items_to_show">No items to show</string>
+    <string name="add_task">Add Task</string>
 </resources>
